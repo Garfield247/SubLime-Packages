@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"ayu",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Github Color Theme",
+		"GitStatusBar",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"SyncedSidebarBg",
+		"Terminal",
+		"Theme - Aprosopo"
+	]
+}

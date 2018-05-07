@@ -1,0 +1,18 @@
+{
+    "codeintel_language_settings": {
+        "Python3": {
+            "python3": "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
+            "codeintel_scan_extra_dir": [
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\DLLs",
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\Lib",
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\Lib\\site-packages",
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\Lib\\idlelib",
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\python36.zip",
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32",
+                "C:\\Users\\G\\AppData\\Local\\Programs\\Python\\Python36-32\\Lib\\*",
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        },
+    }
+}
